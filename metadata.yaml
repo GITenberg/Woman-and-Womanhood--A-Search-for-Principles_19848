@@ -1,0 +1,28 @@
+_repo: Woman-and-Womanhood--A-Search-for-Principles_19848
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saleeby, C. W. (Caleb Williams)
+    alias: Saleeby, Caleb Williams
+    birthdate: 1878
+    deathdate: 1940
+    gutenberg_agent_id: '8917'
+    url: http://www.gutenberg.org/2009/agents/8917
+description: ''
+gutenberg_issued: '2006-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women'
+- !lcc 'HQ'
+- !lcsh 'Eugenics'
+title: 'Woman and Womanhood: A Search for Principles'
+url: http://www.gutenberg.org/ebooks/19848
